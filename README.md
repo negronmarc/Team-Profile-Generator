@@ -21,6 +21,6 @@ Using Node.js the goal of this project was to create a command-line application 
 - Git
 
 ## Launch
-![Preview](./images/preview.png)
+![Preview](https://github.com/negronmarc/Team-Profile-Generator/blob/main/images/preview.PNG?raw=true)
 
 ### Click [Screencastify](https://watch.screencastify.com/v/J7bzTiGRE0UYcTWNqHCR) and it will take you to a tutorial video of this application. 
